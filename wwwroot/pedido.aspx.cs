@@ -9,10 +9,10 @@ public partial class pedido : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        string cliente = (string)(Session["cliente"]);
-        string telefono = (string)(Session["telefono"]);
-        string direccion = (string)(Session["direccion"]);
-        string detalle = (string)(Session["detalle"]);
+        //string cliente = (string)(Session["cliente"]);
+        //string telefono = (string)(Session["telefono"]);
+        //string direccion = (string)(Session["direccion"]);
+        //string detalle = (string)(Session["detalle"]);
 
         
     }

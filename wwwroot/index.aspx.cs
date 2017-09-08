@@ -36,7 +36,6 @@ public partial class index : System.Web.UI.Page
         Session.Add("telefono", telefono);
         Session.Add("direccion", direccion);
         Session.Add("detalle", detalle);
-
         Server.Transfer("pedido.aspx");
 
     }

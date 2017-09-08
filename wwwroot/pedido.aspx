@@ -20,7 +20,7 @@
                 <th>Precio Final</th>
             </tr>
             <tr>
-                <td></td>
+                <td>1</td>
                 <td></td>
                 <td></td>
                 <td></td>
